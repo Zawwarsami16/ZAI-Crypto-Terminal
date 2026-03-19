@@ -1,5 +1,7 @@
 # 🔴 ZAI — Living Intelligence Terminal
 
+https://zawwarsami16.github.io/ZAI-Crypto-Terminal/
+
 > Futures-first execution system · Zawwar Framework  
 > Real-time market structure + AI reasoning + execution filtering
 
